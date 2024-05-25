@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ivanf-12/tic-tac-toe/static/css/main.02dadd76.css",
+    "main.js": "/ivanf-12/tic-tac-toe/static/js/main.a14d875f.js",
+    "index.html": "/ivanf-12/tic-tac-toe/index.html",
+    "main.02dadd76.css.map": "/ivanf-12/tic-tac-toe/static/css/main.02dadd76.css.map",
+    "main.a14d875f.js.map": "/ivanf-12/tic-tac-toe/static/js/main.a14d875f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02dadd76.css",
+    "static/js/main.a14d875f.js"
+  ]
+}
